@@ -1,0 +1,22 @@
+# LaTeX build products
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Local verification artifacts
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
