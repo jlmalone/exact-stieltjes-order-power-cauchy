@@ -9,6 +9,7 @@ source of mathematical authority.
 ## Repository rules
 
 - `master` is the canonical branch.
+- `ROADMAP.md` owns current release state and the next action.
 - Keep the theorem statement, Markdown note, and LaTeX manuscript consistent.
 - State novelty as provisional until a full-text literature audit and
   independent expert review are complete.

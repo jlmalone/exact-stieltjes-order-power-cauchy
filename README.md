@@ -45,6 +45,7 @@ Hausdorff-moment hierarchy for the normalized expansion at infinity.
 
 ## Read the result
 
+- [Publication roadmap and session handoff](ROADMAP.md)
 - [Readable research note](research_note.md)
 - [LaTeX manuscript](paper/exact_stieltjes_order_power_cauchy.tex)
 - [Literature and novelty audit](literature_audit.md)
@@ -53,19 +54,13 @@ Hausdorff-moment hierarchy for the normalized expansion at infinity.
 
 ## Status
 
-The proof has received a static adversarial audit and two independent internal
-normalization checks. The repository does not claim that novelty or publication
-suitability is certified. The remaining gates are:
-
-1. full-text MathSciNet and zbMATH searches;
-2. comparison with the complete Gross-Richards and Dette-Munk papers;
-3. independent review by specialists in generalized Stieltjes transforms and
-   random matrix orbital integrals;
-4. LaTeX build, reference resolution, and rendered-page inspection;
-5. execution of the exact arithmetic verifier.
-
-Resource-constrained mode was active when the initial package was prepared, so
-the build and verification commands are recorded but were not executed.
+The manuscript has received a static adversarial audit and contains two
+independent normalization derivations. The exact-arithmetic verifier and LaTeX
+build remain unexecuted because resource-constrained mode was active during
+preparation. Novelty, correctness, and publication suitability are not
+certified. The ordered remaining gates, referee checklist, stronger research
+directions, owner decisions, and release sequence are maintained in
+[ROADMAP.md](ROADMAP.md).
 
 ## Main verification identities
 
